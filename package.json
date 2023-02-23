@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@akord/akord-js": "^3.5.0",
+    "@akord/akord-js": "^3.8.1",
     "@craco/craco": "^6.4.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
